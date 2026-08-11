@@ -19,6 +19,8 @@ Status: 🚧 Currently under active development.
 
 System Architecture
 
+```text
+
 Resume
         │
         ▼
@@ -41,6 +43,8 @@ Personalized Recommendations
                │
                ▼
  Interview Preparation
+
+```
 
 ---
 
