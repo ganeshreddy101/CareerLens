@@ -17,7 +17,7 @@ Status: 🚧 Currently under active development.
 
 ---
 
-System Architecture
+## System Architecture
 
 ```text
 
@@ -50,24 +50,24 @@ Personalized Recommendations
 
 ## Tech Stack
 
-### Backend
+#### Backend
 
 - FastAPI
 - Python
 - PostgreSQL
 - pgvector
   
-### AI
+#### AI
 - Groq LLM
 - LangChain
 - Sentence Transformers
 - RAG
 - Embedding Search
   
-### Frontend
+#### Frontend
 - Streamlit
 
-### Deployment
+#### Deployment
 - Docker
 - Hugging Face Spaces
  
