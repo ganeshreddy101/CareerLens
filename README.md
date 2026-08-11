@@ -21,7 +21,8 @@ Status: 🚧 Currently under active development.
 
 ```text
 
-Resume
+
+     Resume
         │
         ▼
  Resume Parsing
