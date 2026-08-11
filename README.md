@@ -12,6 +12,7 @@ Current job portals focus primarily on listing vacancies rather than helping can
 CareerLens is an AI-powered career platform designed to help job seekers improve their employability through intelligent career guidance.
 
 The platform analyzes resumes, matches candidates with relevant job roles, identifies missing skills, explains why a resume is or isn't a good fit for a position, and provides personalized recommendations to strengthen applications. It also assists users with interview preparation and AI-powered career insights.
+
 Status: 🚧 Currently under active development.
 
 ---
